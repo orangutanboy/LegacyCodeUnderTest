@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationOfConcerns", "CombinationOfConcerns.csproj", "{5B5A0D04-3A16-4F2E-ADD9-4F7FB342802C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationOfConcern.Tests", "Test\CombinationOfConcern.Tests\CombinationOfConcern.Tests.csproj", "{F39B310A-12AB-4919-A7AD-3C7AF9BD28BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5A0D04-3A16-4F2E-ADD9-4F7FB342802C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5A0D04-3A16-4F2E-ADD9-4F7FB342802C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5A0D04-3A16-4F2E-ADD9-4F7FB342802C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5A0D04-3A16-4F2E-ADD9-4F7FB342802C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39B310A-12AB-4919-A7AD-3C7AF9BD28BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39B310A-12AB-4919-A7AD-3C7AF9BD28BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39B310A-12AB-4919-A7AD-3C7AF9BD28BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39B310A-12AB-4919-A7AD-3C7AF9BD28BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
